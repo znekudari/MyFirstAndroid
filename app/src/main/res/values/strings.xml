@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MyFirstAndroid</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_login" translatable="false">Login</string>
+    <string name="hello_round" translatable="false">Hello Round World!</string>
+    <string name="hello_square" translatable="false">Hello Square World!</string>
+    <string name="submit" translatable="false">submiit</string>
+</resources>
